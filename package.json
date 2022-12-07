@@ -150,7 +150,7 @@
     "jsonp": "^0.2.1",
     "less": "2.7.3",
     "less-loader": "^5.0.0",
-    "lint-staged": "^8.2.1",
+    "lint-staged": "^13.1.0",
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
     "nprogress": "^0.2.0",
